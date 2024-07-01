@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&pause=1000&color=0AFF0A&repeat=false&random=false&width=435&lines=Ah%2C+a+visitor...;Welcome." alt="Typing SVG" />
 
-### I like robots
+### I like robots.
 
 ### Things I like to use
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
