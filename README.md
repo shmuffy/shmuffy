@@ -4,7 +4,7 @@
 
 **`🍴 + (🔌🍞) = 💀`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&pause=1000&color=0AFF0A&repeat=false&random=false&width=435&lines=Ah%2C+a+visitor...;Welcome." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&pause=1500&color=0AFF0A&repeat=false&random=false&width=435&lines=Ah%2C+a+visitor...;Welcome." alt="Typing SVG" />
 
 ### I like robots.
 
